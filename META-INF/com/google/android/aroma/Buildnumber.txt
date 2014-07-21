@@ -1,0 +1,7 @@
+<@center><b>Recovery In Here/BuildNumber</b></@>
+<@center><*>Unofficial TWRP 2.7.1.2 Recovery For AOSP</*></@>
+<@center><*>Unofficial TWRP 2.7.1 Recovery For F2Fs</*></@>
+<@center><*>Official TWRP Recovery 2.7.0.0</*></@>
+<@center><*>ClockworkMod Touch 6.0.2.8b</*></@>
+<@center><*>ClockworkMod Non Touch 6.0.2.8b</*></@>
+<@center><*>PhilZ Touch 6.09.6</*></@>

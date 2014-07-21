@@ -1,0 +1,22 @@
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>May 7 2014</b></@>
+<@center><*>Added F2FRecovery</*></@>
+<@center><*>Updated Unofficial TWRP Recovery For AOSP</*></@>
+
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>May 7 2014</b></@>
+<@center><*>Unofficial TWRP 2.7.0.8 Recovery For AOSP</*></@>
+
+<@center><b>Recovery Switcher 2.0.0</b></@>
+<@center><b>Mar 9 2014</b></@>
+<@center><*>Updated TWRP To 2.7</*></@>
+<@center><*>New Splash Screen</*></@>
+<@center><*>Code Clean Ups</*></@>
+
+<@center><b>Recovery Switcher 1.0.0</b></@>
+<@center><b>Jan 25 2014</b></@>
+<@center><*>Unofficial TWRP Recovery</*></@>
+<@center><*>Official TWRP Recovery</*></@>
+<@center><*>ClockworkMod Touch</*></@>
+<@center><*>ClockworkMod Non Touch</*></@>
+<@center><*>PhilZ Touch</*></@>

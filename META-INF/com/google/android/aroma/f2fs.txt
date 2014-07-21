@@ -1,0 +1,18 @@
+<@center><b><#selectbg_g>F2FS Quick How To</#></b></@>
+
+<b><*>Procedure for fresh conversion including new Rom flashing:</*>
+1. Backup everthing you want to keep with titanium backup or whatever backup you choose.
+2. Fastboot flash the new recovery img. 
+3. Run a twrp backup in case things get ugly!
+4. Flash new ROM now if desired. 
+5. Still in recovery...Goto wipe -> hit Advanced wipe. Select data and hit change partition type. Convert to F2FS. Repeat for cache. 
+6. Flash the Kernel fstab conversion 
+7. Reboot and profit. Any partition app on market can confirm new format changes.
+
+<b><*>Procedure for nightly ROM updates after F2FS conversion:</*>
+1. Flaah nightly
+2. Flash kernel/fstab conversion
+
+<b><*>Procedure if you want to convert back and forth after initial conversion for testing purposes:</*>
+1. Change formats of data/cache as desired (only ext4 and f2fs supported).
+2. Flash kernel/fstab conversion to update format types before attempting boot.
